@@ -1,7 +1,8 @@
 # dell-precision-3240-compact-opencore
 🍎 dell precision 3240 compact hackintosh
-<img width="682" alt="info" src="https://user-images.githubusercontent.com/18390793/147808733-59593f94-c503-49db-9086-2f232ff82d5f.png">
-<img width="650" alt="info2" src="https://user-images.githubusercontent.com/18390793/147809226-1a0d20d7-0138-456e-85d6-b5c891929e7b.png">
+
+<img width="698" alt="info" src="https://user-images.githubusercontent.com/18390793/147809289-5c08fada-5afb-43fe-a0c8-d8e3813d01aa.png">
+<img width="682" alt="info2" src="https://user-images.githubusercontent.com/18390793/147809296-6fdf1036-82fe-420a-a28c-599cde9e9c48.png">
 
 ## HARDWARE
 * CPU: i7-10700
