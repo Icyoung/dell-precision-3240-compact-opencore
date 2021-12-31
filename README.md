@@ -1,7 +1,6 @@
 # dell-precision-3240-compact-opencore
 🍎 dell precision 3240 compact hackintosh
-
-<img width="698" alt="截屏2021-12-31 下午2 40 58" src="https://user-images.githubusercontent.com/18390793/147807940-9422c0b9-3585-417d-9dc0-2e565149b21c.png">
+<img width="698" alt="info" src="https://user-images.githubusercontent.com/18390793/147808733-59593f94-c503-49db-9086-2f232ff82d5f.png">
 
 ## HARDWARE
 * CPU: i7-10700
