@@ -13,7 +13,7 @@
 * Extra: AMD Vega64 in eGPU
 
 ## PRE 
-### tools: <a href="http://ruexe.blogspot.com/">RU.efi</a> NO SET_VAR！
+### TOOLS: <a href="http://ruexe.blogspot.com/">RU.efi</a> NO SET_VAR！
 | name     | form     | offset| value|
 | -------- | -------- | ----- | ---- |
 | CFG Lock | CpuSetup | 0x3E  | 0x00 |
